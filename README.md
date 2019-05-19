@@ -1,1 +1,1 @@
-# website
+# CA Smart Land Use & Transportation's website
